@@ -4,3 +4,8 @@ body{
     font-family: verdana color-value="FFFF";
 }
 
+button{
+    display: block;
+    margin: 0 auto;
+}
+
