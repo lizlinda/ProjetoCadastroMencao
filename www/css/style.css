@@ -1,11 +1,20 @@
 body{
     background: pink;
-    font-size: center;
-    font-family: verdana color-value="FFFF";
+    font-size: 20px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    font-family: verdana;
+    color: black;
 }
-
+.centerclass{
+    background: pink;
+    height: auto;
+}
 button{
     display: block;
     margin: 0 auto;
 }
+
+
 
